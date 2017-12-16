@@ -1,0 +1,14 @@
+.resize-img{
+  height:350px;
+}
+.circle{
+  margin-top:50px;
+  height:150px;
+  width:100%;
+  border-radius:50%;
+  background-color:black;
+  box-shadow:2px black;
+}
+.margin-row{
+	margin-top: 45px;
+}
